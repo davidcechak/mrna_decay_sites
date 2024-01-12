@@ -1,0 +1,1 @@
+Model definition can be found in mrna_decay_sites/CNN_model_anish/clean_deberta6mer_adaptive_cds_local_max_rad5_ds2to11.ipynb
